@@ -97,6 +97,7 @@ ul, ol {
     color: #2b9bda;
     font-size: 16px;
     font-weight: 500;
+    text-transform: uppercase;
 }
 
 .text-block-2 {
